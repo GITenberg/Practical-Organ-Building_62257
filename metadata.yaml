@@ -1,0 +1,26 @@
+_repo: Practical-Organ-Building_62257
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickson, W. E. (William Edward)
+    alias: Dickson, William Edward
+    birthdate: 1823
+    deathdate: 1910
+    gutenberg_agent_id: '51854'
+    url: http://www.gutenberg.org/2009/agents/51854
+description: ''
+gutenberg_issued: '2020-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62257'
+  lccn: 09000445
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Organ (Musical instrument) -- Construction'
+- !lcc 'ML'
+- GITenberg
+title: Practical Organ Building
+url: http://www.gutenberg.org/ebooks/62257
